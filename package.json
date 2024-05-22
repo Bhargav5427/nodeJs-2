@@ -1,0 +1,18 @@
+{
+  "name": "y-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bhargav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "local-storage": "^2.0.0",
+    "node-localstorage": "^3.0.5",
+    "nodemon": "^3.1.0"
+  }
+}
